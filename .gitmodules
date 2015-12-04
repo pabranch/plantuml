@@ -1,0 +1,3 @@
+[submodule "thirdparty/vim/plantuml-syntax"]
+	path = thirdparty/vim/plantuml-syntax
+	url = gh:aklt/plantuml-syntax
